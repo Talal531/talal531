@@ -7,7 +7,7 @@ Hello, This is Talal Malick. I am a professional Software Engineer, mobile and W
 
 <!-- [![Twitter Badge](https://img.shields.io/badge/-@Ipenywis-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Ipenywis)
 --> 
-[![Skype Badge](https://img.shields.io/badge/-Talal-59b0f0?style=flat&labelColor=59b0f0&logo=skype&logoColor=white)](live:mtm_531?chat)
+[![Skype Badge](https://img.shields.io/badge/-live:mtm_531-59b0f0?style=flat&labelColor=59b0f0&logo=skype&logoColor=white)](live:mtm_531?chat)
 [![Linkedin Badge](https://img.shields.io/badge/-talalmalick-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talalmalick/)
 [![Mail Badge](https://img.shields.io/badge/-talalmalick-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:talal.malick18@gmail.com)
 
